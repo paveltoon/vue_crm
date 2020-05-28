@@ -1,4 +1,6 @@
-# crm
+# crm project
+
+![CRM_Screenshot](/readmeFiles/MainPage.png?raw=true)
 
 ## Project setup
 ```
